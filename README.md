@@ -1,0 +1,2 @@
+# Arbeitszeitaufzeichnung_auswerten
+Tool um meine Arbeitszeitaufzeichnungen auszuwerten
